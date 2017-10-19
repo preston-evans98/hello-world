@@ -1,2 +1,2 @@
 # hello-world
-This repository contains early projects
+This repository contains early projects. Really.
